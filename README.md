@@ -1,4 +1,4 @@
-# Porunga #R-Kali
+# Porunga #R-Kali: Giving the Kali´s dragon a name and a maiden flight. 
 
 Aerial platform for Recon, Intelligence and Pentesting. 
 
